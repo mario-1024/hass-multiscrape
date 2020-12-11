@@ -2,5 +2,5 @@
   "name": "Multiscrape sensor",
   "content_in_root": "Yes",
   "render_readme": "Yes",
-  "domains": ["sensor"]
+  "domains": ["sensor","binary_sensor"]
 }
